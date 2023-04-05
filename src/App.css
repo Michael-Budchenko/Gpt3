@@ -7,6 +7,10 @@
 body {
   background: var(--color-bg);
 }
+.App{
+	max-width: 1440px;
+	margin: 0 auto;
+}
 a {
   color: unset;
   text-decoration: none;
